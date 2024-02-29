@@ -52,10 +52,10 @@
         "vnext": [
           {
             "address": "zula.ir",
-            "port": 2096,
+            "port": 2087,
             "users": [
               {
-                "id": "e99eff37-e874-4b11-9b5a-05bf2a47703a",
+                "id": "43a820fa-3037-4e3b-b870-5bc01a41be4e",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -71,7 +71,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "bloG.FuBMaR.oNLINE",
+          "serverName": "wIKI.FUBmAR.OnlIne",
           "alpn": [
             "h2",
             "http/1.1"
