@@ -1,4 +1,5 @@
 {
+  "remarks": "mcibr (IRCF Fragment)",
   "log": {
     "access": "",
     "error": "",
@@ -52,10 +53,10 @@
         "vnext": [
           {
             "address": "zula.ir",
-            "port": 443,
+            "port": 8443,
             "users": [
               {
-                "id": "18018ac2-2fec-4beb-b3ff-1662c3190c8c",
+                "id": "d8fdba41-e6be-44da-9a30-b7de9908a154",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -71,7 +72,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "BLOG.CVOPrdk.nl",
+          "serverName": "bLOg.CVOPRDk.nl",
           "alpn": [
             "h2",
             "http/1.1"
@@ -92,8 +93,8 @@
       },
       "mux": {
         "enabled": true,
-        "concurrency": 0,
-        "xudpConcurrency": 0,
+        "concurrency": 8,
+        "xudpConcurrency": 8,
         "xudpProxyUDP443": "reject"
       }
     },
