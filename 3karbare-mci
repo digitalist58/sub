@@ -1,5 +1,4 @@
 {
-  "remarks": "mci3karbar (IRCF)",
   "log": {
     "access": "",
     "error": "",
@@ -72,7 +71,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "BloG.cVOPrDk.nL",
+          "serverName": "blOg.cVOprdK.Nl",
           "alpn": [
             "h2",
             "http/1.1"
