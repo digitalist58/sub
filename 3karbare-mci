@@ -1,1 +1,1 @@
-vless://d794db03-f9e3-42eb-b36d-c526d18360b2@zula.ir:8443?type=grpc&serviceName=&authority=&security=tls&fp=chrome&alpn=&sni=blog.cvoprdk.nl#mci-3karbar
+vless://d794db03-f9e3-42eb-b36d-c526d18360b2@zula.ir:8443?type=grpc&serviceName=&authority=&security=tls&fp=chrome&alpn=h2&sni=blog.cvoprdk.nl#mci-3karbar
